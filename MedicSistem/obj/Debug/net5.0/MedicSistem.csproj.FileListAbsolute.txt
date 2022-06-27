@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\bin\Debug\net5.0\MedicSistem.exe
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\bin\Debug\net5.0\MedicSistem.deps.json
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\bin\Debug\net5.0\MedicSistem.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\bin\Debug\net5.0\MedicSistem.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\bin\Debug\net5.0\MedicSistem.dll
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\bin\Debug\net5.0\ref\MedicSistem.dll
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\bin\Debug\net5.0\MedicSistem.pdb
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\obj\Debug\net5.0\MedicSistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\obj\Debug\net5.0\MedicSistem.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\obj\Debug\net5.0\MedicSistem.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\obj\Debug\net5.0\MedicSistem.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\obj\Debug\net5.0\MedicSistem.dll
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\obj\Debug\net5.0\ref\MedicSistem.dll
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\obj\Debug\net5.0\MedicSistem.pdb
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\MedicSistem\obj\Debug\net5.0\MedicSistem.genruntimeconfig.cache
