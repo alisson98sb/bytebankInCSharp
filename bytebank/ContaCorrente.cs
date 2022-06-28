@@ -28,6 +28,23 @@
             }
         }
 
+        public bool Transferir(double valor, ContaCorrente destino)
+        {
+            if ( saldo < valor )
+            {
+                return false;
+            }
+            if ( valor < 0)
+            {
+                return false;
+            }
+            else
+            {
+                saldo -= valor;
+                destino.saldo += valor;
+                return true; 
+            }
+        }
     }
 
 }
