@@ -27,7 +27,8 @@ namespace bytebank
             Console.WriteLine("Saldo da " + conta2.titular + " pré-saque: " + conta2.saldo);
             conta2.Sacar(50);
             Console.WriteLine("Saldo da " + conta2.titular + " pós saque: " + conta2.saldo);
-
+            conta2.Depositar(60);
+            Console.WriteLine("Saldo da " + conta2.titular + " pós depósito: " +conta2.saldo);
             Console.ReadKey();
         }
     }
