@@ -18,19 +18,15 @@ namespace bytebank
             conta1.saldo = 100;
 
             ContaCorrente conta2 = new ContaCorrente();
-            conta1.titular = "Amanda Silva";
-            conta1.conta = "111999-x";
-            conta1.numero_agencia = 58;
-            conta1.nome_agencia = "Agencia Central";
-            conta1.saldo = 100;
+            conta2.titular = "Amanda Silva";
+            conta2.conta = "111999-x";
+            conta2.numero_agencia = 58;
+            conta2.nome_agencia = "Agencia Central";
+            conta2.saldo = 100;
 
-            Roupa roupa1 = new Roupa();
-            roupa1.fabricante = "Moda Jeans";
-            roupa1.valor = 63.0;
-
-            Roupa roupa2 = roupa1;
-            roupa2.valor = roupa2.valor + 1000;
-            Console.WriteLine(roupa1.valor);
+            Console.WriteLine("Saldo da " + conta2.titular + " pré-saque: " + conta2.saldo);
+            conta2.Sacar(50);
+            Console.WriteLine("Saldo da " + conta2.titular + " pós saque: " + conta2.saldo);
 
             Console.ReadKey();
         }
