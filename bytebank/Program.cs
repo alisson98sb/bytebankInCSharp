@@ -56,6 +56,22 @@ namespace bytebank
             //conta3.nome_agencia = "Agencia central";
 
             //Console.WriteLine(conta3.titular.nome);
+
+            //ContaCorrente conta4 = new ContaCorrente();
+            ////conta4.SetSaldo(150);
+            ////Console.WriteLine(conta4.GetSaldo());
+
+            //conta4.Saldo = 2000;
+            //Console.WriteLine(conta4.Saldo);
+
+            Cliente sarah = new Cliente();
+
+            ContaCorrente conta4 = new ContaCorrente();
+            conta4.Saldo = 10000;
+            conta4.Titular = sarah;
+            Console.WriteLine(conta4.Saldo);
+
+
             Console.ReadKey();
         }
     }
