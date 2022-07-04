@@ -5,7 +5,6 @@ C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\bin\D
 C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\bin\Debug\net5.0\bytebank.dll
 C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\bin\Debug\net5.0\ref\bytebank.dll
 C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\bin\Debug\net5.0\bytebank.pdb
-C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\obj\Debug\net5.0\bytebank.csproj.AssemblyReference.cache
 C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\obj\Debug\net5.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\obj\Debug\net5.0\bytebank.AssemblyInfoInputs.cache
 C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\obj\Debug\net5.0\bytebank.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\obj\D
 C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\obj\Debug\net5.0\ref\bytebank.dll
 C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\obj\Debug\net5.0\bytebank.pdb
 C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\obj\Debug\net5.0\bytebank.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\Alisson\Aulas\Premium\bytebank\bytebank\obj\Debug\net5.0\bytebank.csproj.AssemblyReference.cache
